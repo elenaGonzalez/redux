@@ -1,0 +1,24 @@
+
+.botonEliminar{
+    background-color:crimson;
+    color: white;
+    border-radius: 1em;
+}
+
+.botonEditar{
+    background-color:darksalmon;
+    color: white;
+    border-radius: 1em;
+}
+
+.boton{
+    background-color:greenyellow;
+    color: black;
+    border-radius: 1em;
+}
+
+.tabla{
+    align-items: center;
+    width: 80%;
+    margin: 5% 10% 5% 10%;
+}

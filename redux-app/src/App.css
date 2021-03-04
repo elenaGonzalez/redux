@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  background-color:skyblue;
+  width: 100%;
+  height: 55%;
+  color: white;
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.tabcontent {
+  background: #a770ef; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 10px 20px;
+  height: 100%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
